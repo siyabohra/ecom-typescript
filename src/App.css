@@ -1,0 +1,51 @@
+.logo{
+    width: 100px;
+    border-radius: 20px;
+    margin: 0px 30px;
+    border: 0.1px solid black;
+}
+
+.search-input{
+    width: 550px;
+    border-radius: 10px;
+    margin-left: 15px;
+    padding: 4px !important;
+
+}
+
+.icons{
+    margin-right: 90px;
+}
+
+.profile{
+   color: #575757;
+}
+.profile:hover{
+ color: black;
+}
+
+.profile-text{
+    color: #575757;
+}
+
+.profile-text:hover{
+    color: black;
+}
+
+.cart-text {
+    color: #575757;
+}
+.cart-text:hover{
+    color: black;
+}
+
+.cart{
+    width: 50px;
+    color: #575757;
+
+}
+
+.cart:hover{
+    color: black;
+}
+
