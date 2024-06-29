@@ -15,7 +15,7 @@ function Header() {
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto d-flex gap-4">
-                            <Nav.Link className=' fs-5 italic fst-italic fw-bold'>Home</Nav.Link>
+                            <Nav.Link className=' fs-5 italic fst-italic fw-bold '>Home</Nav.Link>
                             <NavDropdown title="All Products" id="basic-nav-dropdown" className='fs-5 italic fst-italic fw-bold'>
                                 <NavDropdown.Item >Men's Clothing</NavDropdown.Item>
                                 <NavDropdown.Divider />

@@ -2,7 +2,12 @@
     width: 100px;
     border-radius: 20px;
     margin: 0px 30px;
-    border: 0.1px solid black;
+   
+}
+
+.logo:hover{
+   transform: scale(1.05);
+   transition: 0.5s;
 }
 
 .search-input{
@@ -17,11 +22,14 @@
     margin-right: 90px;
 }
 
+
 .profile{
    color: #575757;
 }
 .profile:hover{
  color: black;
+ transform: scale(1.07);
+ transition: 0.5s;
 }
 
 .profile-text{
@@ -30,6 +38,9 @@
 
 .profile-text:hover{
     color: black;
+    transform: scale(1.07);
+    transition: 0.5s;
+ 
 }
 
 .cart-text {
@@ -37,6 +48,8 @@
 }
 .cart-text:hover{
     color: black;
+    transform: scale(1.07);
+    transition: 0.5s;
 }
 
 .cart{
@@ -47,5 +60,7 @@
 
 .cart:hover{
     color: black;
+    transform: scale(1.07);
+    transition: 0.5s;
 }
 

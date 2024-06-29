@@ -9,7 +9,7 @@ function App() {
   return (
     <div className='container-fluid m-0 p-0'>
       <Header/>
-      <Products/>
+     <Products/>
     </div>
   )
 }
